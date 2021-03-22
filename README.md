@@ -8,7 +8,7 @@ PIPM chatbot mobile application is an experimental startup of Artificial Convers
 
 ☁️ ![PIPM Repository](https://github.com/ladooniani/testapp4)
 
-![alt text](https://github.com/ladooniani/tailab/blob/master/assets/pipm_chatbot.jpg)
+![alt text](https://github.com/ladooniani/tailab/blob/master/assets/pipm-bot.jpg)
 
 ## 💖 Support project
 
