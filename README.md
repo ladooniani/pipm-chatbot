@@ -21,8 +21,3 @@ To support the project follow the donation link:
 </a>
 
 ### 🔬 [TAI lab](https://github.com/ladooniani/terbinari) 
-
-
-
-
-### [http://node.tamunachabashvili.com/data/web/app-debug-2.zip](http://node.tamunachabashvili.com/data/web/app-debug-2.zip) 
