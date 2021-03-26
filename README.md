@@ -2,6 +2,8 @@
 
 ![alt text](https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png)
 
+ ![alt text](https://github.com/ladooniani/resume-cv/blob/main/img/img0.jpg)
+
 # Chatbot
 
 PIPM chatbot mobile application is an experimental startup of Artificial Conversational Entity AI Assistant represents interactive training and conversation model, NLP/U/G syntactic/semantic processing analysis/matching algorithms, machine learning, and data structure concepts. 
